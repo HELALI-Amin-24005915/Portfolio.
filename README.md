@@ -50,7 +50,7 @@ création d'un jeux de donnée.
 
 
 
-- **Email**: [amin.helali@example.com](mailto:amin.helali@example.com)
+- **Email**: [amin.helali@example.com](mailto:amin.helali@etu.univ-amu.fr)
 - **GitHub**: [HELALI-Amin-24005915](https://github.com/HELALI-Amin-24005915)
 - **LinkedIn**: [Amin Helali](#)
 
