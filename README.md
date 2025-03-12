@@ -49,7 +49,7 @@ création d'un jeux de donnée.
 ## Contact
 
 
-- **Email**: [amin.helali@example.com](mailto:amin.helali@etu.univ-amu.fr)
+- **Email**: [amin.helali@etu.univ-amu.fr](mailto:amin.helali@etu.univ-amu.fr)
 - **GitHub**: [HELALI-Amin-24005915](https://github.com/HELALI-Amin-24005915)
 - **LinkedIn**: [Amin Helali](#)
 
