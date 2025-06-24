@@ -40,7 +40,7 @@ Description: Implémentation du jeu classique Pac-Man personnalisé en utilisant
 
 Description: Site web Game Hub développé en équipe, présentant une plateforme dédiée aux jeux vidéo classiques avec des fonctionnalités de recherche, de contact et des liens vers les réseaux sociaux.
 
-🔗 [Voir le code](./Game_hub) | 🌐 [Visiter le site](https://sitebut.alwaysdata.net/)
+🔗 [Voir le code](./Game_hub) | 🌐 [Visiter le site](https://game-hube-website.netlify.app/)
 
 ### Base de Données Oracle
 
